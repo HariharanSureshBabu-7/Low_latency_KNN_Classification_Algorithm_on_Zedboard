@@ -55,20 +55,6 @@ The system consists of the following modules:
 
 ---
 
-## Project Structure
-Low-Latency-KNN-Hardware-Accelerator-on-FPGA/
-│
-├── dataset_rom.v
-├── distance_unit.v
-├── knn_controller.v
-├── knn_top.v
-├── tb_knn.v
-├── knn_constraints.xdc
-└── README.md
-
-
----
-
 ## Design Flow
 
 1. Input feature vector is provided to the accelerator.
